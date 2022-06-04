@@ -1,6 +1,6 @@
 ## Code for my personal website
 
-[link](fabioseixas.github.io)
+[Link](https://fabioseixas.github.io/)
 
 This amazing project was made by [andersevenrud](https://github.com/andersevenrud) and is originally hosted [here](https://github.com/andersevenrud/retro-css-shell-demo).
 
